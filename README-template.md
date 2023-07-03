@@ -9,6 +9,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Screenshot](#screenshot)
   - [Links](#links)
 
+
 ## Overview
 
 ### The challenge
@@ -19,13 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-#### Desktop Version
+#### Desktop Verdion
 
 ![](./ScrennShots/Dektop-Version.png)
 
 #### Mobile-version
-
-![](./ScrennShots/Mobile-Version.jpg)
+![](./ScrennShots/Mobile-Version.png)
 
 ### Links
 
@@ -39,5 +39,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Author
 
 - Frontend Mentor - [@SalahEddineMj](https://www.frontendmentor.io/profile/SalahEddineMj)
